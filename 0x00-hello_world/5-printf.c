@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /**
- * main -print aline  of code using printf
+ * main - Entry point
  *
- * return: 0
+ * Return: 0 when success
  */
+
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
